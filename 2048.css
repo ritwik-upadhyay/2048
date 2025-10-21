@@ -11,8 +11,8 @@ hr {
 }
 
 #board {
-    width: min(90vw, 400px);
-    height: min(90vw, 400px);
+    width: min(400px, 90vmin);
+    height: min(400px, 90vmin);
 
     background-color: #cdc1b5;
     border: 6px solid #bbada0;
