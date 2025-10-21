@@ -268,7 +268,7 @@ function handleSwipe() {
 
     if(isGameOver()) {
         document.getElementById("game_over").style.display="block";
-        document.getElementById("restart-btn").style.display = "block";
+        document.getElementById("res_button").style.display = "block";
     }
 }
 
